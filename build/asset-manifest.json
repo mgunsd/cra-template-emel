@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cra-template-emel/static/css/main.7e40b007.chunk.css",
+    "main.js": "/cra-template-emel/static/js/main.17ccf937.chunk.js",
+    "main.js.map": "/cra-template-emel/static/js/main.17ccf937.chunk.js.map",
+    "runtime-main.js": "/cra-template-emel/static/js/runtime-main.ef49cf17.js",
+    "runtime-main.js.map": "/cra-template-emel/static/js/runtime-main.ef49cf17.js.map",
+    "static/js/2.fd92d499.chunk.js": "/cra-template-emel/static/js/2.fd92d499.chunk.js",
+    "static/js/2.fd92d499.chunk.js.map": "/cra-template-emel/static/js/2.fd92d499.chunk.js.map",
+    "index.html": "/cra-template-emel/index.html",
+    "precache-manifest.9aa640fc4135933ee5f5fce21f704d2d.js": "/cra-template-emel/precache-manifest.9aa640fc4135933ee5f5fce21f704d2d.js",
+    "service-worker.js": "/cra-template-emel/service-worker.js",
+    "static/css/main.7e40b007.chunk.css.map": "/cra-template-emel/static/css/main.7e40b007.chunk.css.map",
+    "static/js/2.fd92d499.chunk.js.LICENSE.txt": "/cra-template-emel/static/js/2.fd92d499.chunk.js.LICENSE.txt",
+    "static/media/reactlogo.svg": "/cra-template-emel/static/media/reactlogo.ff1c1ab9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef49cf17.js",
+    "static/js/2.fd92d499.chunk.js",
+    "static/css/main.7e40b007.chunk.css",
+    "static/js/main.17ccf937.chunk.js"
+  ]
+}

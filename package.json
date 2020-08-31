@@ -1,27 +1,42 @@
 {
   "name": "emel",
-  "version": "0.0.1",
-  "keywords": [
-    "react",
-    "create-react-app",
-    "template",
-    "emel"
-  ],
-  "description": "The base template for Create React App.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.20.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.3",
+    "styled-components": "^5.1.1"
   },
-  "license": "MIT",
-  "engines": {
-    "node": ">=10"
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "files": [
-    "template",
-    "template.json"
-  ]
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "homepage": "https://mgunsd.github.io/cra-template-emel/"
 }
