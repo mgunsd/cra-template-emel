@@ -1,17 +1,20 @@
 {
-  "name": "emel",
-  "version": "0.0.1",
+  "name": "cra-template-emel",
+  "version": "0.1.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "emel"
+    "emel",
+    "folder structure",
+    "styled-components"
   ],
+  "author": "Mark Gun",
   "description": "The base template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/mgunsd/cra-template-emel.git",
+    "directory": "tree/master/template"
   },
   "license": "MIT",
   "engines": {
